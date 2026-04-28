@@ -1,7 +1,7 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "1.0.0"
+    "Software": "1.10.5"
   },
-  "Changelog": "first endpoint build"
+  "Changelog": "added a dex, temp removed desync"
 }
