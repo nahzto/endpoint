@@ -1,0 +1,8 @@
+{
+  "Platform": "Windows",
+  "Versions": {
+    "Software": "1.0.0",
+    "Roblox": "version-390ba09e7e944154"
+  },
+  "Changelog": "first endpoint build"
+}
