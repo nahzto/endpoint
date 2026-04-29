@@ -3,5 +3,5 @@
   "Versions": {
     "Software": "1.10.5"
   },
-  "Changelog": "added a dex, temp removed desync"
+  "Changelog": "major ui changes, added hitbox expander"
 }
